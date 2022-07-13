@@ -2,7 +2,7 @@
 
 A relational database to create data structures for a Clinic keeping records of patients.
 
-<!-- ![image](Vet_Clinic_Diagram.png) -->
+![image](clinic.png)
 
 ## Built With
 
