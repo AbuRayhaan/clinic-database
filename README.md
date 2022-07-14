@@ -10,7 +10,7 @@ A relational database to create data structures for a Clinic keeping records of 
 
 ## Getting Started
 
-- To get a local copy up and running follow these simple example steps.
+This repository has a file with plain SQL that can be used to recreate a database.
 
 ## Author
 
